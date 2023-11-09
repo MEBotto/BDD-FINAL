@@ -1,0 +1,19 @@
+.table-button-style{
+    height: 40px;
+    width: auto;
+}
+
+.modal-header-style{
+    background-color: #4DBDFC;
+    background-color:#B0D4F2;
+    background-color:#8280FF;
+    color: #fff;
+}
+
+.modal-body-style{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}

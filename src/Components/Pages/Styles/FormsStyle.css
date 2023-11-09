@@ -1,0 +1,20 @@
+.form-title-style{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: auto;
+    border-radius: 30px;
+    color: #fff;
+    margin-top: 40px;
+}
+
+.form-buttons-style{
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+
+.form-back-button-style{
+    margin-bottom: 80px;
+}

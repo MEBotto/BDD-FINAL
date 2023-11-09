@@ -1,0 +1,10 @@
+.title-style{
+    display: flex;
+    align-items :center;
+    font-size: 18px;
+    background-color: #6B4423;
+    height: 40px;
+    width: 300px;
+    border-radius: 50px;
+    margin-top: 50px;
+}

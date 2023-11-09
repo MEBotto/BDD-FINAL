@@ -1,0 +1,21 @@
+.header-style{
+    background-color: #4DBDFC;
+    height: 80px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-style{
+    height: 100%;
+    width: 65px;
+}
+
+.header-title-style{
+    font-size: 30px;
+}
+
+.purple-divider{
+    background-color: #8280FF;
+    height: 20px;
+}
